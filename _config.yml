@@ -22,11 +22,11 @@ repository               : "adelekebankole.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Adeleke.jpg"
   name             : "Adeleke O. Bankole"
   pronouns         : "he/him"  
   bio              : "Research Software Engineer at University of Cambridge"
-  location         : "Cambridge, England"
+  location         : "Cambridge, England."
   employer         : "University of Cambridge"
   uri              : # URL
   email            : "ab3191@cam.ac.uk" 
