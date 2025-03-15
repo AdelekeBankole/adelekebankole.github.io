@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Mathematics, University of Hamburg, Germany 2017
+* M.S. in Industrial Mathematics, University of Hamburg, Germany 2011
+* M.S. in Mathematical Engineering, University of L'Aquila, Italy 2011
+* PGD. in Mathematical Sciences, African Institute for Mathematical Sciences (AIMS) - University of the Western Cape, South Africa 2009
+* B.S. in Mathematics, University of Ilorin, Nigeria 2007
 
 Work experience
 ======
