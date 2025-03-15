@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr"
+title                    : "Dr Adeleke O. Bankole"
 title_separator          : "-"
 name                     : &name "Adeleke O. Bankole"
 description              : &description "Research Software Engineer at the University of Cambridge"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Adeleke O. Bankole"
   pronouns         : "he/him"  
-  bio              : "Research Software Engineer at the University of Cambridge"
+  bio              : "Research Software Engineer at University of Cambridge"
   location         : "Cambridge, England"
   employer         : "University of Cambridge"
   uri              : # URL
