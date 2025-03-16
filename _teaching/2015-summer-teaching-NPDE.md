@@ -4,6 +4,6 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2015-summer-teaching-NPDE
 venue: "University of Hamburg, Department of Mathematics"
-date: 2015-04-01, 2016-04-01, 2017-04-01 
+date: 2015-04-01 
 location: "Hamburg, Germany"
 ---
