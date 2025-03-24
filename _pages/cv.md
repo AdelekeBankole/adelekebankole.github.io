@@ -19,21 +19,16 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* July 2024: Research Software Engineer
+  * University of Cambridge, England
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* July 2021: Research Associate
+  * University of Colorado Boulder, USA
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* January 2017: Research Scientist
+  * University of Hamburg, Germany
+
+* May 2012: Research Assistant
+  * University of Hamburg, Germany
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
