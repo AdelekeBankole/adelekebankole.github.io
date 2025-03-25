@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * July 2024: Research Software Engineer
-  * University of Cambridge, England
+  * University of Cambridge, UK
 
 * July 2021: Research Associate
   * University of Colorado Boulder, USA
