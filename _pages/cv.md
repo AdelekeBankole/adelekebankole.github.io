@@ -14,7 +14,7 @@ Education
 * Ph.D in Applied Mathematics, University of Hamburg, Germany 2017
 * M.S. in Industrial Mathematics, University of Hamburg, Germany 2011
 * M.S. in Mathematical Engineering, University of L'Aquila, Italy 2011
-* PGD. in Mathematical Sciences, African Institute for Mathematical Sciences (AIMS) - University of the Western Cape, South Africa 2009
+* PGD. in Mathematical Sciences, African Institute for Mathematical Sciences (AIMS), University of the Western Cape, SA 2009
 * B.S. in Mathematics, University of Ilorin, Nigeria 2007
 
 Work experience
