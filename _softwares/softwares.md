@@ -1,2 +1,2 @@
-# Mathematical and Nuerical Softwares
+# Mathematical and Numerical Softwares
 # Climate Softwares
