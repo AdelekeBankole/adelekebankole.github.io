@@ -3,7 +3,6 @@ title: "A meshfree semi-implicit Smoothed Particle Hydrodynamics method for free
 collection: publications
 category: conferences
 permalink: /publication/2017-02-17-paper-A-meshfree-semi-implicit-Smoothed-Particle-Hydrodynamics-method-for-free-surface-flow 
-excerpt: 'This paper is about fixing template issue #693.' 
 date: 2017-02-17
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
