@@ -1,7 +1,7 @@
 ---
 title: "A semi-implicit SPH scheme for the two-dimensional shallow water equations"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2015-10-01-paper-A-semi-implicit-SPH-scheme-for-the-two-dimensional-shallow-water-equations
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2015-10-01
