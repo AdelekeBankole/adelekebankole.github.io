@@ -1,7 +1,7 @@
 ---
 title: "A wetting and drying semi-implicit SPH algorithm for the shallow water equations"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2016-10-01-paper-A-wetting-and-drying-semi-implicit-SPH-algorithm-for-the-shallow-water-equations
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2016-10-01
