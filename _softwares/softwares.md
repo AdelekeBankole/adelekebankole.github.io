@@ -7,9 +7,9 @@ author_profile: true
 
 Mathematical and Numerical Softwares
 ======
-* [**LFAToolkit.jl**](https://jeremylt.github.io/LFAToolkit.jl/stable/)
-* [**libCEED**](https://ceed.exascaleproject.org/libceed/)
-* [**PETSc**](https://petsc.org/release/)
+* [**LFAToolkit.jl**](https://jeremylt.github.io/LFAToolkit.jl/stable/), code base can be found [here](https://github.com/jeremylt/LFAToolkit.jl) 
+* [**libCEED**](https://ceed.exascaleproject.org/libceed/), code base can be found [here](https://github.com/CEED/libCEED)
+* [**PETSc**](https://petsc.org/release/), code base can be found [here](https://github.com/petsc/petsc)
 
 Climate Softwares
 ======
