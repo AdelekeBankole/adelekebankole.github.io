@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2015-10-01-paper-A-semi-implicit-SPH-scheme-for-the-two-dimensional-shallow-water-equations
 date: 2015-10-01
 venue: 'Proceedings of the 10th SPHERIC International Workshop'
-paperurl: 'https://adelekebankole.github.io/files/paper2.pdf'
+paperurl: 'https://adelekebankole.github.io/files/spheric2015.pdf'
 citation: 'A.O. Bankole et al. (2015). &quot;A semi-implicit SPH scheme for the two-dimensional shallow water equations.&quot; <i>Proceedings of the 10th SPHERIC International Workshop</i>.'
 ---
 
