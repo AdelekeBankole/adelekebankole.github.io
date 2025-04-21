@@ -6,7 +6,7 @@ author_profile: true
 ---
 I am keen on supervision, I have supervised the following theses and projects:
 ## Modeling Camp
-* Supervised and mentored 26 masters students spanning 7 applied mathematics projects. University of Hamburg, Germany (2021)
+* Supervised and mentored 26 master students spanning 7 applied mathematics projects. University of Hamburg, Germany (2021)
 ## Master Theses
 * Modeling, simulation and optimization of pressure retarded osmosis (PRO) power station: Co vs. counter current setting. By Olakunle Bolorunduro, University of Hamburg, Germany (2021)
 * Kinetic induced moment systems using orthogonal polynomials. By Girish Kumatagi, University of Hamburg, Germany (2019)
