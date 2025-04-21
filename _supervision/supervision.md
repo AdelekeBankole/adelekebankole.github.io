@@ -4,4 +4,7 @@ title: "Supervision"
 permalink: /supervision/
 author_profile: true
 ---
-I am keen on supervision, I have supervised the following master theses and projects:
+I am keen on supervision, I have supervised the following theses and projects:
+## Master Thesis
+
+## Bachelor Projects
