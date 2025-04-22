@@ -4,7 +4,7 @@ title: "Supervision"
 permalink: /supervision/
 author_profile: true
 ---
-I am keen on supervision, I have supervised the following theses and projects:
+I am keen on supervision, I have supervised and mentored the following theses and projects:
 ## Modeling Camp
 * Supervised and mentored 26 master students spanning 7 applied mathematics projects. University of Hamburg, Germany (2021)
   
