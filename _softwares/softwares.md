@@ -14,4 +14,4 @@ I contributed to the following code bases:
 ## Climate Softwares
 <!-- ====== -->
 * [**CAM-ML**](https://github.com/m2lines/convection-parameterization-in-CAM)
-* [**GISS-GC**](https://github.com/fetch4/GISS-GC)
+* [**GISS-GC**](https://github.com/fetch4/GISS-GC), this is a coupling work for the [GISS Model E](https://simplex.giss.nasa.gov/gcm/) weather and climate model with the [GEOS-Chem](https://geoschem.github.io/index.html) atmospheric chemistry model.
