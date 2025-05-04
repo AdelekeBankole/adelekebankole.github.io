@@ -11,7 +11,7 @@ I contributed to the following code bases:
 * [**libCEED**](https://libceed.org/en/latest/), a fast algebra C library for element-based discretizations with bindings available in Fortran, Rust, Python, and Julia languages. Code base can be found [here](https://github.com/CEED/libCEED)
 * [**PETSc**](https://petsc.org/release/), Portable, Extensible Toolkit for Scientific Computation for scalable solution applications modelled by PDEs. Has bindings for C, Fortran, and Python. Code base can be found [here](https://github.com/petsc/petsc). Additionally, added to PETSc this [tutorial code](https://petsc.org/release/src/snes/tutorials/ex31.c.html) - A Chebyshev spectral method for the compressible Blasius boundary layer equations  
 
-## Climate and Weather Softwares
+## Weather and Climate Softwares
 <!-- ====== -->
 * [**CAM-ML**](https://github.com/m2lines/convection-parameterization-in-CAM), a fortran code with the aim to improve performance of climate models using ML models for subgrid parameterizations. This work is a neural net implementation providing a subgrid parameterization of atmospheric convection in a single column model. 
 * [**GISS-GC**](https://github.com/fetch4/GISS-GC), this is a coupling work for the [GISS Model E](https://simplex.giss.nasa.gov/gcm/) weather and climate model with the [GEOS-Chem](https://geoschem.github.io/index.html) atmospheric chemistry model. The two models are written in Fortran.
