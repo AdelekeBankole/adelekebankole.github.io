@@ -4,7 +4,13 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-My research spectrum is in this direction:
+Research Interests
+======
+* Mathematical Modeling and Simulation
+* Advanced Numerical Approximation Techniques
+* Meshfree (Particle) Approximation Methods
+* Computational Fluid Dynamics
+
 ## Theses
 <!--====== -->
 * **PhD Dissertation**: A semi-implicit Smoothed Particle Hydrodynamics method for the numerical simulation of shallow water flows, thesis can be found [here](https://adelekebankole.github.io/files/PhdDissertation.pdf)
