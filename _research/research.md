@@ -7,9 +7,10 @@ author_profile: true
 Research Interests
 ======
 * Mathematical Modeling and Simulation
-* Advanced Numerical Approximation Techniques
+* Advanced Numerical Approximation Techniques - Finite Volume, Finite Element, High-order Methods
 * Meshfree (Particle) Approximation Methods
-* Computational Fluid Dynamics
+* Multigrid and Multilevel Solvers
+* Computational Fluid Dynamics, Turbulence Modeling
 
 ## Theses
 <!--====== -->
