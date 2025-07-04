@@ -15,3 +15,4 @@ He earned his Ph.D. in Applied Mathematics (2017 - [University of Hamburg, Germa
 
 
 Feel free to reach out to me at [ab3191@cam.ac.uk](mailto:ab3191@cam.ac.uk)
+I like to do basic research with simplicity to aid comprehension.
