@@ -1,5 +1,5 @@
 ---
-title: "Exercise class in Computerized Tomography"
+title: "Exercise classes in Computerized Tomography"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2016-computerized-tomography
