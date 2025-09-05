@@ -1,5 +1,5 @@
 ---
-title: "Exercise class in Advanced Algorithms and Data Structures"
+title: "Exercise classes in Advanced Algorithms and Data Structures"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2017-summer-teaching-ADS
