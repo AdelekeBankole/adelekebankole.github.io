@@ -1,5 +1,5 @@
 ---
-title: "Lectures and Exercise class in Numerical Approximation of PDEs by Finite Difference and Finite Volume Methods"
+title: "Lectures and Exercise classes in Numerical Approximation of PDEs by Finite Difference and Finite Volume Methods"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2018-summer-teaching-NPDE
