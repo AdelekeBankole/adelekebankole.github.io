@@ -1,5 +1,5 @@
 ---
-title: "Lectures and Exercise class in Advanced Topics in Fluid Dynamics"
+title: "Lectures and Exercise classes in Advanced Topics in Fluid Dynamics"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-summer-teaching-ATFD
