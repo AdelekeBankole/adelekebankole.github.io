@@ -1,5 +1,5 @@
 ---
-title: "Exercise class in Traffic Flow Modeling"
+title: "Exercise classes in Traffic Flow Modeling"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-summer-teaching-TFM
