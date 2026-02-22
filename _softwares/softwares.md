@@ -17,5 +17,5 @@ I contributed to the following code bases:
 * [**GISS-GC**](https://github.com/fetch4/GISS-GC), this is a coupling work for the [GISS Model E](https://simplex.giss.nasa.gov/gcm/) weather and climate model with the [GEOS-Chem](https://geoschem.github.io/index.html) atmospheric chemistry model. The two models are written in Fortran.
 
 I currectly work on the these software projects:
-* [**ClimaCore.jl**](https://github.com/CliMA/ClimaCore.jl), the dynamical core (dycore) of the atmosphere and land models for CliMA's Earth System Model (ESM).
-* [**Pyrealm**](https://github.com/ImperialCollegeLondon/pyrealm), the package provides Python implementations of models of plant productivity and demography.
+* [**ClimaCore.jl**](https://github.com/CliMA/ClimaCore.jl), the dynamical core (dycore) of the atmosphere and land models for [CliMA's](https://clima.caltech.edu) Earth System Model (ESM).
+* [**Pyrealm**](https://github.com/ImperialCollegeLondon/pyrealm), a package that provides Python implementations of models of plant productivity and demography.
