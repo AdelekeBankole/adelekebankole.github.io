@@ -15,7 +15,7 @@ I contributed to the following code bases:
 <!-- ====== -->
 * [**CAM-ML**](https://github.com/m2lines/convection-parameterization-in-CAM), a fortran code with the aim to improve performance of climate models using ML models for subgrid parameterizations. This work is a neural net implementation providing a subgrid parameterization of atmospheric convection in a single column model. 
 * [**GISS-GC**](https://github.com/fetch4/GISS-GC), this is a coupling work for the [GISS Model E](https://simplex.giss.nasa.gov/gcm/) weather and climate model with the [GEOS-Chem](https://geoschem.github.io/index.html) atmospheric chemistry model. The two models are written in Fortran.
----
+
 I currectly work on the these software projects:
 * [**ClimaCore.jl**](https://github.com/CliMA/ClimaCore.jl),
 * [**Pyrealm**](https://github.com/ImperialCollegeLondon/pyrealm),
