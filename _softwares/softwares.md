@@ -18,5 +18,5 @@ I contributed to the following code bases:
 * [**OceanBioME.jl**](https://github.com/OceanBioME/OceanBioME.jl), a flexible biogeochemical modelling environment for modelling the coupled interactions between ocean biology, carbonate chemistry, and physics. I worked on profiling and performance optimization of the code base.
 
 I currectly work on the these software projects:
-* [**ClimaCore.jl**](https://github.com/CliMA/ClimaCore.jl), the dynamical core (dycore) of the atmosphere and land models for [CliMA's](https://clima.caltech.edu) Earth System Model (ESM).
+* [**ClimaCore.jl**](https://github.com/CliMA/ClimaCore.jl), the dynamical core (dycore) of the atmosphere and land models for [CliMA's](https://clima.caltech.edu) Earth System Model (ESM). Also working on performance optimization and profiling the codebase.
 * [**Pyrealm**](https://github.com/ImperialCollegeLondon/pyrealm), a package that provides Python implementations of models of plant productivity and demography.
