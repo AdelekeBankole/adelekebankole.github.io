@@ -1,5 +1,5 @@
 ---
-title: "Mathematical Tripos: Exercise classes in Numerical Analysis"
+title: "Mathematical Tripos: Exercise classes and Supervision in Numerical Analysis"
 collection: teaching
 type: "Bachelor course"
 permalink: /teaching/2026-Lent-Term-teaching-NA
