@@ -16,4 +16,4 @@ He earned his Ph.D. in Applied Mathematics (2017 - [University of Hamburg, Germa
 
 He likes to engage in basic, fundamental, and foundational research with simplicity to aid comprehension which we hence build on and scale up to solve real world problems.
 
-Feel free to reach out to me at [ab3191@cam.ac.uk](mailto:ab3191@cam.ac.uk).
+Feel free to reach out to me at [ab3191@cam.ac.uk](mailto:ab3191@cam.ac.uk), or [adeleke.bankole@gmail.com](mailto:adeleke.bankole@gmail.com).
