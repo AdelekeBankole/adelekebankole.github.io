@@ -9,6 +9,7 @@ I am keen on supervision, I have supervised and mentored the following theses an
 * Supervised and mentored 26 master students spanning 7 applied mathematics projects. University of Hamburg, Germany (2021)
   
 ## Master Theses
+* Closed Loop Modeling for Geothermal Applications. By Vyvy Duong, University of Hamburg, Germany (2025)
 * Modeling, simulation and optimization of pressure retarded osmosis (PRO) power station: Co vs. counter current setting. By Olakunle Bolorunduro, University of Hamburg, Germany (2021)
 * Kinetic induced moment systems using orthogonal polynomials. By Girish Kumatagi, University of Hamburg, Germany (2019)
 * Development, implementation and test of a pressure forcing for simulating meteo-tsunamis. By Max Humberto Rodriguez Gomez, University of Hamburg, Germany (2018)
