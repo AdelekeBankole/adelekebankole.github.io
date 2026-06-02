@@ -3,7 +3,7 @@ title: "Mathematical Tripos: Exercise classes and Supervision in Numerical Analy
 collection: teaching
 type: "Bachelor course"
 permalink: /teaching/2026-Lent-Term-teaching-NA
-venue: "University of Cambridge, Department of Applied Mathematics and Theoretical Physics"
+venue: "University of Cambridge, Department of Applied Mathematics and Theoretical Physics, and Queens' College"
 date: 2026-01-01 
 location: "Cambridge, UK"
 ---
