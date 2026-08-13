@@ -8,6 +8,7 @@ Research Interests
 ======
 * Mathematical Modeling and Simulation
 * Advanced Numerical Approximation Techniques - Finite Volume, Finite Element, High-order Methods
+* Semi-implicit Smoothed Particle Hydrodynamics method
 * Meshfree (Particle) Approximation Methods
 * Multigrid and Multilevel Solvers
 * Computational Fluid Dynamics, Turbulence Modeling
