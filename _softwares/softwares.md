@@ -18,4 +18,4 @@ I contributed to the following code bases:
 * [**neXtSIM_DG**](https://github.com/nextsimhub/nextsimdg), a next generation sea-ice model with the Discontinuous Galerkin (DG) method.
 * [**OceanBioME.jl**](https://github.com/OceanBioME/OceanBioME.jl), a flexible biogeochemical modelling environment for modelling the coupled interactions between ocean biology, carbonate chemistry, and physics. I worked on profiling and performance optimization of the code base.
 * [**Pyrealm**](https://github.com/ImperialCollegeLondon/pyrealm), a package that provides Python implementations of models of plant productivity and demography.
-* [**ClimaCore.jl**](https://github.com/CliMA/ClimaCore.jl), the dynamical core (dycore) of the atmosphere and land models for [CliMA's](https://clima.caltech.edu) Earth System Model (ESM). Working on performance optimization and profiling the codebase.
+* [**ClimaCore.jl**](https://github.com/CliMA/ClimaCore.jl), the dynamical core (dycore) of the atmosphere and land models for [CliMA's](https://clima.caltech.edu) Earth System Model (ESM). Worked on performance optimization and profiling the codebase.
