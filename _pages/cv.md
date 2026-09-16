@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* July 2024: Research Software Engineer
+* July 2024: Senior Machine Learning Engineer, Research Software Engineer
   * University of Cambridge, UK
 
 * July 2021: Research Associate
