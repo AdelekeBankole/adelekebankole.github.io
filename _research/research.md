@@ -12,7 +12,7 @@ Research Interests
 * Meshfree (Particle) Approximation Methods
 * Multigrid and Multilevel Solvers
 * Computational Fluid Dynamics, Turbulence Modeling
-* Interested in AI for Mathematics, AI for Education
+* Interested in AI for Mathematics, AI for Science, AI for Education
 
 ## Theses
 <!--====== -->
