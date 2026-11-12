@@ -13,7 +13,7 @@ Research Interests
 * Multigrid and Multilevel Solvers
 * Computational Fluid Dynamics, Turbulence Modeling
 * Hyperbolic Conservation Laws
-* Interested in AI for Mathematics, AI for Science, AI for Education, AI for Teaching and Learning
+* Interested in Scientific ML, AI for Mathematics, AI for Science, AI for Education, AI for Teaching and Learning
 
 ## Theses
 <!--====== -->
