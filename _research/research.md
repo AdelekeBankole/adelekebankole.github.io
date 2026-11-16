@@ -7,6 +7,7 @@ author_profile: true
 Research Interests
 ======
 * Mathematical Modeling and Simulation
+* Partial Differential Equations
 * Advanced Numerical Approximation Techniques - Finite Volume, Finite Element, High-order Methods
 * Semi-implicit Smoothed Particle Hydrodynamics Method
 * Meshfree (Particle) Approximation Methods
