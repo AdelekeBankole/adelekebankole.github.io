@@ -1,5 +1,5 @@
 ---
-title: "Mathematical Tripos: Exercise classes and Supervision in Mathematical methods"
+title: "Mathematical Tripos: Exercise classes and Supervision in Mathematical Methods"
 collection: teaching
 type: "Bachelor course"
 permalink: /teaching/2026-Michaelmas-Term-teaching-MM
